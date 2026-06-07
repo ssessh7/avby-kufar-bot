@@ -15,20 +15,15 @@
 
 ---
 
-## 📸 Скриншоты
+## 📸 Как выглядит бот
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Уведомление о новом объявлении</b><br/>
-      <img src="assets/screenshot.jpg" width="280" alt="Пример уведомления" />
-    </td>
-    <td align="center">
-      <b>Меню бота</b><br/>
-      <img src="assets/menu.jpg" width="280" alt="Меню бота" />
-    </td>
-  </tr>
-</table>
+**Уведомление о новом объявлении:**
+
+<img src="assets/screenshot.jpg" width="360" alt="Пример уведомления" />
+
+**Меню бота:**
+
+<img src="assets/menu.jpg" width="500" alt="Меню бота" />
 
 ---
 
