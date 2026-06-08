@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ssessh7/avby-kufar-bot/main/assets/banner.svg" alt="Av.by & Kufar.by Bot" width="100%"/>
+</div>
+<div align="center">
   <img src="assets/banner.svg" alt="Av.by & Kufar.by Bot" width="100%"/>
 </div>
 
